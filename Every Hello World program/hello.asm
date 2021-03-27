@@ -16,7 +16,7 @@ start:
 	jmp $			
 
 
-	text_string db 'This is my cool new OS!', 0
+	text_string db 'Hello World', 0
 
 
 print_string:			
